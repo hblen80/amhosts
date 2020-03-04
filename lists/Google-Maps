@@ -1,0 +1,95 @@
+# 2020/03/04
+# GOOGLE MAPS HOSTS
+# WIP
+# WORK IN PROGRESS
+#
+# GOOGLE MAPS HOSTS START
+
+
+0.0.0.0 local.google.com
+0.0.0.0 m.google.com
+0.0.0.0 map.google.com
+0.0.0.0 mapmaker.google.com
+0.0.0.0 maps.gstatic.com
+0.0.0.0 mapsengine.google.com
+0.0.0.0 mt.google.com
+0.0.0.0 mt0.google.com
+0.0.0.0 mt1.google.com
+0.0.0.0 mt2.google.com
+0.0.0.0 mt3.google.com
+0.0.0.0 mt4.google.com
+0.0.0.0 mt5.google.com
+0.0.0.0 mt6.google.com
+0.0.0.0 mt7.google.com
+0.0.0.0 mt8.google.com
+0.0.0.0 mt9.google.com
+0.0.0.0 mt10.google.com
+0.0.0.0 mts.google.com
+0.0.0.0 mts0.google.com
+0.0.0.0 mts1.google.com
+0.0.0.0 mts2.google.com
+0.0.0.0 mts3.google.com
+0.0.0.0 mts4.google.com
+0.0.0.0 mts5.google.com
+0.0.0.0 mts6.google.com
+0.0.0.0 mts7.google.com
+0.0.0.0 mts8.google.com
+0.0.0.0 mts9.google.com
+0.0.0.0 mts10.google.com
+0.0.0.0 mw.google.com
+0.0.0.0 mw0.google.com
+0.0.0.0 mw1.google.com
+0.0.0.0 mw2.google.com
+0.0.0.0 mw3.google.com
+0.0.0.0 mw4.google.com
+0.0.0.0 mw5.google.com
+0.0.0.0 mw6.google.com
+0.0.0.0 mw7.google.com
+0.0.0.0 mw8.google.com
+0.0.0.0 mw9.google.com
+0.0.0.0 mw10.google.com
+0.0.0.0 places.google.com
+0.0.0.0 sky.google.com
+
+0.0.0.0 geomobileservices-pa.googleapis.com
+0.0.0.0 maps.googleapis.com
+0.0.0.0 mobilemaps-pa.googleapis.com
+
+0.0.0.0 content-mapsenterprise-pa.googleapis.com
+
+0.0.0.0 www.geomobileservices-pa.googleapis.com
+0.0.0.0 gloauth2.googleapis.com
+0.0.0.0 gmbmobile-pa.googleapis.com
+0.0.0.0 www.gmbmobile-pa.googleapis.com
+0.0.0.0 www.googlehomefoyer-pa.googleapis.com
+0.0.0.0 gsa-speakr-pa.googleapis.com
+0.0.0.0 mt0_2048.googleapis.com
+0.0.0.0 mt1_2048.googleapis.com
+0.0.0.0 mta.googleapis.com
+0.0.0.0 mtb.googleapis.com
+0.0.0.0 mtc.googleapis.com
+0.0.0.0 mts0.googleapis.com
+0.0.0.0 www.mts0.googleapis.com
+0.0.0.0 mts1.googleapis.com
+0.0.0.0 www.mts1.googleapis.com
+
+0.0.0.0 maps.google.com
+0.0.0.0 www.maps.google.com
+
+0.0.0.0 googlemaps.com
+0.0.0.0 www.googlemaps.com
+0.0.0.0 google.googlemaps.com
+0.0.0.0 snake.googlemaps.com
+0.0.0.0 w.googlemaps.com
+0.0.0.0 ww.googlemaps.com
+
+#Google Earth
+#googlearth.com
+0.0.0.0 googlearth.com
+0.0.0.0 www.googlearth.com
+
+#googleearth.com
+0.0.0.0 googleearth.com
+0.0.0.0 www.googleearth.com
+
+#GOOGLE MAPS HOSTS END
